@@ -1,0 +1,19 @@
+body{
+    background-color: #DCF2F1;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+    border-color: rgb(240, 255, 254);
+    background-size: 100%;
+}
+table,td
+{
+    background-color:#DCF2F1;
+    border-radius: 30px;
+    text-align: center;
+}
+td{
+    background-color: #607274;
+}
+h2{
+    color: burlywood;
+}
